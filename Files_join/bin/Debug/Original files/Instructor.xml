@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Instructor>
+  <Instructor>
+    <Instructor_id>001</Instructor_id>
+    <Instructor_name>Mohamed</Instructor_name>
+    <Department_id>001</Department_id>
+  </Instructor>
+  <Instructor>
+    <Instructor_id>002</Instructor_id>
+    <Instructor_name>Hassan</Instructor_name>
+    <Department_id>002</Department_id>
+  </Instructor>
+  <Instructor>
+    <Instructor_id>003</Instructor_id>
+    <Instructor_name>Mona</Instructor_name>
+    <Department_id>001</Department_id>
+  </Instructor>
+  <Instructor>
+    <Instructor_id>004</Instructor_id>
+    <Instructor_name>Safa</Instructor_name>
+    <Department_id>002</Department_id>
+  </Instructor>
+  <Instructor>
+    <Instructor_id>005</Instructor_id>
+    <Instructor_name>Khaled</Instructor_name>
+    <Department_id>004</Department_id>
+  </Instructor>
+</Instructor>
+

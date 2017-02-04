@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<student>
+  <student>
+    <student_id>1</student_id>
+    <student_name>Abdallah</student_name>
+    <Course_Id>001</Course_Id>
+  </student>
+  <student>
+    <student_id>2</student_id>
+    <student_name>Ahmed</student_name>
+    <Course_Id>002</Course_Id>
+  </student>
+  <student>
+    <student_id>3</student_id>
+    <student_name>Mohamed</student_name>
+    <Course_Id>003</Course_Id>
+  </student>
+  <student>
+    <student_id>5</student_id>
+    <student_name>Hassan</student_name>
+    <Course_Id>002</Course_Id>
+  </student>
+  <student>
+    <student_id>7</student_id>
+    <student_name>Youssef</student_name>
+    <Course_Id>007</Course_Id>
+  </student>
+  <student>
+    <student_id>8</student_id>
+    <student_name>Hamza</student_name>
+    <Course_Id>008</Course_Id>
+  </student>
+  <student>
+    <student_id>9</student_id>
+    <student_name>Mazen</student_name>
+    <Course_Id>009</Course_Id>
+  </student>
+</student>

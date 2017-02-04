@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Course>
+  <Course>
+    <Course_name>Math</Course_name>
+    <Course_id>001</Course_id>
+    <Instructor_id>001</Instructor_id>
+  </Course>
+  <Course>
+    <Course_name>File</Course_name>
+    <Course_id>002</Course_id>
+    <Instructor_id>002</Instructor_id>
+  </Course>
+  <Course>
+    <Course_name>OOP</Course_name>
+    <Course_id>003</Course_id>
+    <Instructor_id>001</Instructor_id>
+  </Course>
+  <Course>
+    <Course_name>IS</Course_name>
+    <Course_id>004</Course_id>
+    <Instructor_id>003</Instructor_id>
+  </Course>
+  <Course>
+    <Course_name>OR</Course_name>
+    <Course_id>007</Course_id>
+    <Instructor_id>005</Instructor_id>
+  </Course>
+  <Course>
+    <Course_name>Ethics</Course_name>
+    <Course_id>008</Course_id>
+    <Instructor_id>007</Instructor_id>
+  </Course>
+</Course>
+
